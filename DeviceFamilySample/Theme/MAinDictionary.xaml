@@ -1,0 +1,8 @@
+﻿<ResourceDictionary
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation" 
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:DeviceFamilySample.Theme">
+    <Color x:Key="TheColor">#FFFF00</Color>
+    <SolidColorBrush x:Key="TheColorBrush"
+                     Color="{StaticResource TheColor}" />
+</ResourceDictionary>
